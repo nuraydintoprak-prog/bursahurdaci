@@ -1,0 +1,9 @@
+# ads.txt - bursamhurdaci.com.tr
+# Bu dosya, bu alan adında yayınlanan reklamların yetkili satıcılarını (Authorized Digital Sellers)
+# belirtmek için kullanılan Google/IAB standardı bir dosyadır. https://iabtechlab.com/ads-txt/
+#
+# Bu siteye Google AdSense veya başka bir reklam ağı bağlandığında, ilgili yayıncı kimliğini
+# aşağıdaki formatta ekleyin:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# Şu an bu sitede üçüncü taraf reklam envanteri satılmamaktadır.
